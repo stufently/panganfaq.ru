@@ -1,4 +1,22 @@
 ---
-- title: faq
-  hashtag: faq
-  path: faq
+- title: Жилье на Пангане
+  hashtag: panganjilie
+  path: question-1
+- title: Аренда транспорта
+  hashtag: arendatransporta
+  path: question-2
+- title: Питание
+  hashtag: pitanie
+  path: question-3
+- title: Погода
+  hashtag: pogodapangan
+  path: question-4
+- title: Гос. Учереждения
+  hashtag: gosucherejdenia
+  path: question-5
+- title: Отдых и развлечения 
+  hashtag: otdihirazvlechenia
+  path: question-6
+- title: Услуги
+  hashtag: uslugi
+  path: question-7
