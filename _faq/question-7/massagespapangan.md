@@ -1,5 +1,5 @@
 ---
-question: Массаж на Пангане
+question: Где делают массаж на Пангане
 ldjson: yes
 hashtag: massagespapangan
 ---
