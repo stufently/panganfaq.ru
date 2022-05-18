@@ -8,15 +8,18 @@
 - title: Питание
   hashtag: pitanie
   path: question-3
+- title: Поездки
+  hashtag: uslugi
+  path: question-4
 - title: Погода
   hashtag: pogodapangan
-  path: question-4
+  path: question-5
 - title: Гос. Учереждения
   hashtag: gosucherejdenia
-  path: question-5
+  path: question-6
 - title: Отдых и развлечения 
   hashtag: otdihirazvlechenia
-  path: question-6
+  path: question-7
 - title: Услуги
   hashtag: uslugi
-  path: question-7
+  path: question-8
