@@ -6,7 +6,6 @@ hashtag: hospitalpangan
 
 На Пангане гинеколога и акушера-гинеколога нет, ближайший на Самуи (например dr. Rapheephan clinic). Там делают любые тесты, мазки, узи, определяют пол будущего ребёнка и подробно консультируют по любым вопросам.
 
-![фото](https://panganfaq.ru/assets/hospital.png)
 
 ### Phangan Hospital
 
