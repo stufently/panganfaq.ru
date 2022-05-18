@@ -33,13 +33,13 @@ Dome — купольная травяная сауна с запахом эвк
 
 Травяная сауна на территории храма. Женская и мужская сауны отдельно. При входе выдают саронг. Сауна очень маленькая, нужно вести себя тихо. Можно с детьми. Цена 110 бат.
 
-Baan Tai Herbal Sauna
+### Baan Tai Herbal Sauna
 
 [Google Maps](https://goo.gl/maps/BJtbYb9r5ewNNswc9)
 
 Небольшая травяная сауна на Бантае. Из услуг также есть массаж.
 
-Ananda Yoga Center
+### Ananda Yoga Center
 
 [Facebook](https://www.facebook.com/AnandaYogaDetox/). [Сайт](https://anandayogadetox.com/). [Google Maps](https://goo.gl/maps/Mz129dNcbxy4mMqe7)
 
@@ -51,7 +51,7 @@ Ananda Yoga Center
 
 Обычная, не травяная сауна, общая для мужчин и женщин. Оплата на кассе кафе, выдают саронг и полотенце. Стоимость 100 бат.
 
-Sunset Hill
+### Sunset Hill
 
 [Google Maps](https://goo.gl/maps/Ei1XDRkqUz1Z8ohp7)
 
