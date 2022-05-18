@@ -9,11 +9,11 @@ hashtag: tysovkiirazvlechenia
 Существует Календарь мероприятий Пангана. Там часто можно найти не только интересные происходящие на острове события, но и анонсы тусовок. К примеру, уроки сальсы, контактная импровизация или Ecstatic dance.
 
 * Вторник: | 360 Bar, 5pm | | | |
-* Среда: | Lighthouse, 9pm |
+* Среда: | Lighthouse, 9pm | | | |
 * Четверг: | Freeway Bar, 6pm | Seabord Bungalows, 6pm | Jam Bar, 9pm | Hollystone Bar, 9pm |
-* Пятница: | L'Alcove, 6pm | Rasta Home, 9pm | Guy's bar |
+* Пятница: | L'Alcove, 6pm | Rasta Home, 9pm | Guy's bar | |
 * Суббота: | Sunset Walk, 5pm | Hollystone Bar, 8pm | Wai Nam | Eden Bar |
-* Воскресенье: | Jam Bar, 9pm | L'Alcove, 6pm | Loi Lay |
+* Воскресенье: | Jam Bar, 9pm | L'Alcove, 6pm | Loi Lay | |
 
 ### Регулярные мероприятия
 
