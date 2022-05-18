@@ -1,5 +1,5 @@
 ---
-question: Массаж, сауны и SPA на Пангане
+question: Массаж на Пангане
 ldjson: yes
 hashtag: massagespapangan
 ---
