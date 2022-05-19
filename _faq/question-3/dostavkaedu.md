@@ -17,7 +17,3 @@ hashtag: dostavkaedu
 
 ![Pizza1112](https://panganfaq.ru/assets/Pizza1112.jpg)
 
-
-🥞 [Русские кафе](https://timesamui.com/category_russian-cuisine_87) часто готовы сделать доставку, при минимальном заказе (уточняйте этот порог, у всех разный).
-
-![russ](https://panganfaq.ru/assets/russ.jpg)
